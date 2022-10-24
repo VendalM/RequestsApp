@@ -1,0 +1,158 @@
+<section class="container-fluid" *ngFor="let item of request">
+  <div class="row home-title-block">
+    <div class="col-lg-9 col-md-9 col-sm-6 col-xs-6 col-6 d-flex justify-content-start flex-row align-items-center">
+      <a  routerLink="home" class="home-title me-4 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">АСУРЭО</a>
+      <img  class="home-title-point  me-4 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none" alt="icon-circle" src="assets/img/icon-circle.png">
+      <p  class="home-title">Заявка от {{item?.number}}</p>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-6">
+      <p  class="text-end user-name">Иванов Иван Иванович</p>
+    </div>
+  </div>
+  <div class="detail-page-line">
+    <div class="detail-page-line-point-blue ps-1 pe-2 pb-1">
+      <a routerLink="home">
+    <img alt="icon-arrow-back" class="icon-arrow-back" src="assets/img/icon-arrow-back.png">
+      </a>
+    </div>
+    <div class="detail-page-line-point-blue d-flex justify-content-center align-items-center">
+      <img class="icon-flash" alt="icon-flash" src="assets/img/icon-flash.png">
+      <p class="d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Редактировать</p>
+    </div>
+    <div class="detail-page-line-point-blue">
+    </div>
+    <div class="detail-page-line-point-dark-blue text-center">
+      <img  class="home-title-point d-xl-none d-lg-none d-md-none d-sm-none d-inline" alt="icon-settings" src="assets/img/icon-settings.png">
+      <p class="d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Общее</p>
+    </div>
+    <div class="detail-page-line-point-green text-center">
+      <img  class="home-title-point d-xl-none d-lg-none d-md-none d-sm-none d-inline" alt="icon-settings" src="assets/img/icon-file.png">
+      <p class="d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Примечания</p>
+  </div>
+    <div class="detail-page-line-point-brown text-center">
+      <img  class="home-title-point d-xl-none d-lg-none d-md-none d-sm-none d-inline" alt="icon-settings" src="assets/img/icon-pencil.png">
+      <p class="d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Подписки</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 detail-info-block">
+      <div class="detail-info-point">
+      <p class="detail-info-title">Состояние</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Предприятие</p>
+        <p class="detail-info-txt">{{item.ent}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Объект</p>
+        <p class="detail-info-txt">{{item.obj}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Оборудование</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Оборудование, выв в ремонт</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12  detail-info-block detail-info-col-grey">
+      <div class="detail-info-point">
+        <p class="detail-info-title">Просимый срок</p>
+        <p class="detail-info-txt">{{item.needRepDBeg}}-{{item.needRepDEnd}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Разрешенный срок</p>
+        <p class="detail-info-txt">{{item.permRepDBeg}}-{{item.permRepDEnd}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Фактический срок</p>
+        <p class="detail-info-txt">{{item.factRepDBeg}}-{{item.factRepDEnd}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Плановый срок</p>
+        <p class="detail-info-txt">{{item.totalRepDBeg}}-{{item.totalRepDEnd}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Время создания</p>
+        <p class="detail-info-txt">{{item.crDate}}</p>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 detail-info-block">
+      <div class="detail-info-point">
+        <p class="detail-info-title">Программа переключений</p>
+        <p class="detail-info-txt">XXXXXXXXXXXXXX</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Комплекс</p>
+        <p class="detail-info-txt">{{item.dev}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Состояние оборуд по заявке (УПР)</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point d-flex justify-content-start flex-row">
+        <div class="me-5">
+        <p class="detail-info-title">P</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+        </div>
+        <div>
+        <p class="detail-info-title">dP</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 detail-info-block detail-info-col-grey">
+      <div class="detail-info-point">
+        <p class="detail-info-title">Категория</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Продление</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">Ремонт</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+      <div class="detail-info-point">
+        <p class="detail-info-title">А/Г</p>
+        <p class="detail-info-txt">{{item.state}}</p>
+      </div>
+    </div>
+  </div>
+  <div class="row mt-3 mb-3 detail-info-row-green">
+    <div class="col-6 detail-info-block">
+      <p class="detail-green-block-title">Содержание работ</p>
+      <p class="detail-info-txt">[{{item.obj}}]</p>
+      <p class="detail-info-txt">{{item.notes}}</p>
+    </div>
+    <div class="col-6 detail-info-block d-flex flex-column">
+      <div class="mb-3">
+        <p class="detail-green-block-title">Режимные указания</p>
+        <p class="detail-info-txt">[{{item.obj}}]</p>
+        <p class="detail-info-txt">{{item.repType}}</p>
+      </div>
+      <div>
+        <p class="detail-green-block-title">Оперативные указания</p>
+        <p class="detail-info-txt">[{{item.obj}}]</p>
+        <p class="detail-info-txt">{{item.repType}}</p>
+      </div>
+    </div>
+  </div>
+  <div class="row mt-3 mb-3 detail-info-row-yellow d-flex flex-column detail-info-block">
+    <div class="mb-3">
+      <p class="detail-dark-block-title">Предыдущие предприятие</p>
+      <p class="detail-info-txt" *ngFor="let el of item.detailInfoEnterprise">
+        {{el.enterprise}} /{{el.alienNumber}}, {{el.state}}, {{el.dateBegin}}-{{el.dateEnd}}
+      </p>
+    </div>
+    <div class="mb-3">
+      <p class="detail-dark-block-title">Предыдущие согласование</p>
+      <p class="detail-info-txt" *ngFor="let el of item.detailInfoAgreement">
+        {{el.enterprise}}/{{el.alienNumber}}, {{el.dateBegin}}-{{el.dateEnd}}, {{el.names}}
+      </p>
+    </div>
+  </div>
+</section>

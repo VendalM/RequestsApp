@@ -1,0 +1,122 @@
+p {
+  margin: 0;
+}
+
+.home-title-block{
+  margin: 20px 0;
+}
+
+.home-title{
+  color: #2f78ed;
+  text-decoration: none;
+  &:hover{
+    cursor: pointer;
+  }
+}
+
+.home-title-point{
+  width: 12px;
+  height: 12px;
+}
+
+.icon-arrow-back {
+  transform: rotate(90deg);
+  width: 20px;
+  height: 20px;
+}
+
+.detail-page-line{
+ display: grid;
+  grid-template-columns: 40px 160px 1fr 120px 120px 120px;
+}
+.detail-page-line-point-blue{
+  border-right: 2px solid white;
+  background-color: #2f78ed;
+  color: white;
+  &:hover{
+    cursor: pointer;
+  }
+}
+
+.icon-flash{
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}
+
+.detail-page-line-point-dark-blue{
+  background-color: #085394;
+  color: white;
+  border-right: 2px solid white;
+  position: relative;
+}
+
+.detail-page-line-point-dark-blue:after{
+  content: '';
+  position: absolute;
+  left: 45%;
+  bottom: -20px;
+  border: 10px solid transparent;
+  border-top: 10px solid #085394;
+}
+
+.detail-page-line-point-green{
+  background-color: #38761d;
+  color: white;
+  border-right: 2px solid white;
+}
+
+.detail-page-line-point-brown{
+  background-color: #9a6f43;
+  color: white;
+}
+
+.detail-info-block{
+  padding: 20px;
+}
+
+.detail-info-point{
+  margin-bottom: 20px;
+}
+
+.detail-info-title{
+  color: #9e9e9e;
+  font-size: 14px;
+}
+
+.detail-info-txt{
+  font-size: 16px;
+}
+
+.detail-info-col-grey{
+  background-color: #f7f7f7;
+}
+
+.detail-info-row-green{
+  background-color: #dbebd4;
+  font-size: 14px;
+}
+
+.detail-green-block-title{
+  color: #78a169;
+  font-weight: bolder;
+}
+
+.detail-info-row-yellow{
+  background-color: #fff6d9;
+}
+
+.detail-dark-block-title{
+  font-size: 14px;
+}
+
+@media (max-width: 575px) {
+  .detail-page-line{
+    display: grid;
+    grid-template-columns: 40px 40px 1fr 40px 40px 40px;
+  }
+
+ .detail-info-txt, .home-title, .user-name{
+    font-size: 14px;
+  }
+}

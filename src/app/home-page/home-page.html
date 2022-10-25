@@ -3,7 +3,7 @@
   <div class="row home-title-block">
     <div class="col-lg-9 col-md-8 col-sm-7 col-xs-7 col-6 d-flex justify-content-start flex-row align-items-center">
       <a routerLink="home" class="home-title me-4 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">АСУРЭО</a>
-      <img  class="home-title-point me-4 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none" alt="icon-circle" src="assets/img/icon-circle.png">
+      <img  class="home-title-point me-4 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none" alt="icon-circle" src="assets/img/icon-circle.svg">
       <p  class="home-title">Список заявок</p>
     </div>
     <div class="col-lg-3 col-md-4 col-sm-5 col-xs-5 col-6 text-lg-end text-md-end text-sm-end">
@@ -17,11 +17,11 @@
       <span class="ms-1 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Просмотр</span>
     </button>
     <button class="home-btn me-4">
-      <img  class="home-title-point" alt="icon-lightning" src="assets/img/icon-lightning.png">
+      <img  class="home-title-point" alt="icon-lightning" src="assets/img/icon-flash-b.svg">
       <span class="ms-1 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Редактирование</span>
     </button>
     <button class="home-btn me-3">
-      <img  class="home-title-point" alt="icon-plus" src="assets/img/icon-plus.png">
+      <img  class="home-title-point" alt="icon-plus" src="assets/img/icon-plus-b.svg">
       <span class="ms-1 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Создание</span>
     </button>
     <button class="home-btn">
@@ -29,7 +29,7 @@
       <span class="ms-1 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Фильтр</span>
     </button>
     <button class="home-btn">
-      <img  class="home-title-point" alt="icon-settings" src="assets/img/icon-settings.png">
+      <img  class="home-title-point" alt="icon-settings" src="assets/img/icon-settings-b.svg">
       <span class="ms-1 d-xl-inline d-lg-inline d-md-inline d-sm-inline d-none">Настройки</span>
     </button>
     </div>
@@ -37,20 +37,18 @@
   </div>
   <div class="row header-content-filter">
     <div class="col d-flex flex-row justify-content-lg-start align-items-center home-detail-filter-block">
-      <img class="home-title-point me-2" alt="icon-triangle" src="assets/img/icon-triangle.png">
+      <img class="home-title-point home-title-point-rotate me-2" alt="icon-triangle" src="assets/img/icon-triangle.png">
       <p class="me-2">Фильтр</p>
       <p class="home-title">"Все заявки"</p>
     </div>
   </div>
 
   <div class="row">
-    <div class="col table-responsive" [ngClass]="mobileShow === true ? 'hide-table' : ''">
-      <table class="table">
+    <div class="col hide-for-mobile">
+      <table class="table table-fixed-head table-bordered">
         <thead>
-        <tr>
+        <tr  style="display: grid; grid-template-columns: 120px 140px 140px 200px 200px 200px 200px 100px 100px 1fr">
           <th scope="col" class="table-th-txt">Номер</th>
-          <th scope="col" class="table-th-txt">Предприятие</th>
-          <th scope="col" class="table-th-txt">Состояние заявки</th>
           <th scope="col" class="table-th-txt">Объект</th>
           <th scope="col" class="table-th-txt">Оборудование</th>
           <th scope="col" class="table-th-txt">Совокупн. начало</th>
@@ -74,24 +72,23 @@
           let i = index"
             [queryParams]="{id: post.id}"
             [routerLink]="['/detail-page']"
-          [ngClass]="i%2? 'change-color' : ''">
+          [ngClass]="i%2? 'change-color' : ''"
+            style="display: grid; grid-template-columns: 120px 140px 140px 200px 200px 200px 200px 100px 100px 1fr">
           <td>{{post.number}}</td>
-          <td>{{post.ent}}</td>
-          <td>{{post.state}}</td>
           <td>{{post.obj}}</td>
-          <td>{{post.repTypeIdent}}</td>
-          <td>{{post.needRepDBeg}}</td>
-          <td>{{post.permRepDBeg}}</td>
-          <td>{{post.permRepDEnd}}</td>
-          <td>{{post.permRepDEnd}}</td>
-          <td>{{post.repTypeIdent}}</td>
           <td>{{post.catIdent}}</td>
+          <td>{{post.needRepDBeg}}</td>
+          <td>{{post.needRepDEnd}}</td>
+          <td>{{post.permRepDEnd}}</td>
+          <td>{{post.permRepDEnd}}</td>
+          <td>{{post.repTypeIdent}}</td>
+          <td>{{post.cat}}</td>
           <td>{{post.notes}}</td>
         </tr>
         </tbody>
       </table>
   </div>
-    <div class="col-12" [ngClass]="mobileShow === true ? '' : 'hide-table'">
+    <div class="col-12 hide-for-desktop" >
       <div *ngFor="
           let post of POSTS
             | paginate
@@ -111,7 +108,7 @@
             </div>
             <div>
               <p class="mobile-response-title">Оборудование</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.ent}}</p>
             </div>
             <div>
               <p class="mobile-response-title">Состояние заявки</p>
@@ -121,45 +118,45 @@
             <div class="d-flex justify-content-between flex-row mb-2">
               <div class="col-4">
                 <p class="mobile-response-title">Вид</p>
-                <p class="mobile-response-txt">{{post.number}}</p>
+                <p class="mobile-response-txt">{{post.repType}}</p>
               </div>
               <div class="col-4">
                 <p class="mobile-response-title">Категория</p>
-                <p class="mobile-response-txt">{{post.number}}</p>
+                <p class="mobile-response-txt">{{post.cat}}</p>
               </div>
               <div class="col-4">
                 <p class="mobile-response-title">УПР</p>
-                <p class="mobile-response-txt">{{post.state}}</p>
+                <p class="mobile-response-txt">{{post.notes}}</p>
               </div>
           </div>
           <div class="d-flex justify-content-between flex-row mb-2">
             <div class="col-6">
               <p class="mobile-response-title">Объект</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.obj}}</p>
             </div>
             <div class="col-6">
               <p class="mobile-response-title">Предприятие</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.ent}}</p>
             </div>
           </div>
           <div class="d-flex justify-content-between flex-row mb-2">
             <div class="col-6">
               <p class="mobile-response-title">Совокупн. начало</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.needRepDBeg}}</p>
             </div>
             <div class="col-6">
               <p class="mobile-response-title">Совокупн. конец</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.needRepDEnd}}</p>
             </div>
           </div>
           <div class="d-flex justify-content-between flex-row">
             <div class="col-6">
               <p class="mobile-response-title">Разреш. начало</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.permRepDBeg}}</p>
             </div>
             <div class="col-6">
               <p class="mobile-response-title">Разреш. конец</p>
-              <p class="mobile-response-txt">{{post.number}}</p>
+              <p class="mobile-response-txt">{{post.permRepDEnd}}</p>
             </div>
           </div>
         </div>
@@ -167,15 +164,16 @@
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-lg-5 col-md-3 col-sm-2 col-xs-2 col-2">
+  <div class="row pagination-cnt">
+    <div class="col-lg-5 col-md-3 col-sm-2 col-xs-3 col-3">
       <label class="control">
         <span class="d-xl-inline d-lg-inline d-md-inline d-sm-none d-none">Страница</span>
         <input type="number" min="1" [(ngModel)]="page" style="width: 40px;" (ngModelChange)="scrollToTop()">
         <span class="d-xl-inline d-lg-inline d-md-inline d-sm-none d-none">из {{pageCount}}</span>
       </label>
     </div>
-    <div class="col-lg-2 col-md-6 col-sm-8 col-xs-8 col-8 d-flex justify-content-center align-items-center">
+    <div class="col-lg-2 col-md-6 col-sm-8 col-xs-6 col-6">
+    <div class="d-flex justify-content-center align-items-center">
       <img alt="icon-arrow" src="assets/img/icon-arrow.png" class="icon-arrow-left" (click)="page=1">
       <pagination-controls
         previousLabel=""
@@ -186,9 +184,10 @@
       </pagination-controls>
       <img alt="icon-arrow" src="assets/img/icon-arrow.png" class="icon-arrow-right" (click)="page=pageCount">
     </div>
-    <div class="col-lg-5 col-md-3 col-sm-2 col-xs-2 col-2 text-end">
+    </div>
+    <div class="col-lg-5 col-md-3 col-sm-2 col-xs-3 col-3 text-end">
       <span class="me-1 d-xl-inline d-lg-inline d-md-inline d-sm-none d-none">Записей на странице</span>
-      <div class="btn-group me-2" dropdown>
+      <div class="btn-group dropup me-2" dropdown [dropup]="true">
         <button id="button-container" dropdownToggle type="button" class="btn dropdown-toggle"
                  [(ngModel)]="tableSize" ngDefaultControl (ngModelChange)="changePageCount()"
                 aria-controls="dropdown-container"><span class="caret"></span>

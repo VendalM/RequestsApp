@@ -1,4 +1,4 @@
-import {AfterViewChecked, Component, OnInit, ViewChild} from '@angular/core';
+import {AfterViewChecked, Component, OnInit, ViewChild, ViewEncapsulation} from '@angular/core';
 import {PostService} from "../post.service";
 import {RequestService} from "../request.service";
 import {PaginationControlsDirective} from "ngx-pagination/lib/pagination-controls.directive";
@@ -7,7 +7,8 @@ import {PaginationControlsDirective} from "ngx-pagination/lib/pagination-control
   selector: 'app-home-page',
   templateUrl: './home-page.html',
   providers: [RequestService],
-  styleUrls: ['./home-page.scss']
+  styleUrls: ['./home-page.scss'],
+  encapsulation: ViewEncapsulation.Emulated,
 })
 
 export class HomePageComponent implements OnInit{

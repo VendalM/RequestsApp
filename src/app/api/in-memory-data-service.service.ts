@@ -37,25 +37,25 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "notes": "Модернизация вертикальной поворотно-лопастной гидр...",
           "zvkDecisionType": 0,
           "detailInfoEnterprise": [{
-        "itemType": "Подающее предприятие",
-        "enterprise": "Саратовское РДУ",
-        "alienNumber": 5652,
-        "state": "Подана",
-        "dateBegin": "00:01 10.07.16",
-        "dateEnd": "00:00 11.09.17",
-        "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
-        "stateId": 0
-      }],
+          "itemType": "Подающее предприятие",
+          "enterprise": "Саратовское РДУ",
+          "alienNumber": 5652,
+          "state": "Подана",
+          "dateBegin": "00:01 10.07.16",
+          "dateEnd": "00:00 11.09.17",
+          "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+          "stateId": 0
+          }],
           "detailInfoAgreement":[{
-        "itemType": "Предыдущее согласование",
-        "enterprise": "Саратовская ГЭС",
-        "alienNumber": 730,
-        "state": "Подана",
-        "dateBegin": "00:01 10.07.16",
-        "dateEnd": "00:00 11.09.17",
-        "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
-        "stateId": 0
-      }]
+          "itemType": "Предыдущее согласование",
+          "enterprise": "Саратовская ГЭС",
+          "alienNumber": 730,
+          "state": "Подана",
+          "dateBegin": "00:01 10.07.16",
+          "dateEnd": "00:00 11.09.17",
+          "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+          "stateId": 0
+        }]
         },
         {
           "id": 150400,
@@ -82,7 +82,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СДТУ направления ",
           "state": "Открытая",
           "notes": "ССПИ АСДУ осн, рез. Снятие питания с преобразовате...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 150527,
@@ -109,7 +129,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Замена гидротурбинной установки, реконструкция ген...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 152222,
@@ -136,7 +176,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "Заявленный режим работы в связи с невозможностью р...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 154071,
@@ -163,7 +223,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СДТУ направления ",
           "state": "Открытая",
           "notes": "Вывести телеизмерения положений РПН АТ-2 ф. А, С н...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157653,
@@ -190,7 +270,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Разгрузка энергоблока №1 до 950 МВт для замены фаз...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157721,
@@ -217,7 +317,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Работа гидроагрегата в пропеллерном режиме",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157759,
@@ -244,7 +364,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Реконструкция ячейки АТ-3 с заменой оборудования и...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157760,
@@ -271,7 +411,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Реконструкция ячейки АТ-3 с заменой оборудования и...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157786,
@@ -298,7 +458,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Блок №1 не готов к участию в ОПРЧ согласно п.3 «Те...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157787,
@@ -325,7 +505,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Блок №2 не готов к участию в ОПРЧ согласно п.3 «Те...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157788,
@@ -352,7 +552,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Продлить.\nТГ-3 не готова к участию в ОПРЧ согласно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157789,
@@ -379,7 +599,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Продлить.\nТГ-4 не готова к участию в ОПРЧ согласно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157793,
@@ -406,7 +646,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно п.2.1\n«Порядка...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157794,
@@ -433,7 +693,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно п.2.1\n«Порядка...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157795,
@@ -460,7 +740,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Продлить.\nТГ-9 не готова к участию в ОПРЧ согласно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157797,
@@ -487,7 +787,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Продлить.\nТГ-6 не готова к участию в ОПРЧ согласно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157798,
@@ -514,7 +834,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно п.2.1 «Порядка...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157829,
@@ -541,7 +881,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно письма ОАО «Во...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157830,
@@ -568,7 +928,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно письма ОАО «Во...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157831,
@@ -595,7 +975,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "Не готово к участию в ОПРЧ согласно п.2.1 «Порядка...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157864,
@@ -622,7 +1022,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Проведение капитального ремонта с разборкой генера...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157865,
@@ -649,7 +1069,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Модернизация вертикальной поворотной-лопастной гид...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157895,
@@ -676,7 +1116,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ОПРЧ",
           "state": "Открытая",
           "notes": "ТГ-5  не готов к участию в ОПРЧ согласно п.2.1 \"По...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157900,
@@ -703,7 +1163,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Замена гидротурбинной установки, реконструкция ген...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157901,
@@ -730,7 +1210,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "выделить 6ТГ в режим работы на сеть 220 кВ по режи...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157902,
@@ -757,7 +1257,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "Выделить 7ТГ в режим работы на сеть 500 кВ по режи...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157903,
@@ -784,7 +1304,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 220 кВ",
           "state": "Открытая",
           "notes": "Отключить СВ-2 по режиму работы 6ТГ, 7ТГ и 8 ТГ.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 157905,
@@ -811,7 +1351,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "выделить 8ТГ в режим работы на сеть 220 кВ по режи...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158174,
@@ -838,7 +1398,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение НСИ на  внутренних и внешних серверах СK...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158175,
@@ -865,7 +1445,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение НСИ на  ЦППС Smart Fep  в ДЦ и РПОФ ОДУ ...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158692,
@@ -892,7 +1492,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение НСИ на  внутренних и внешних серверах СK...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158749,
@@ -919,7 +1539,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СДТУ направления ",
           "state": "Открытая",
           "notes": "ССПИ АСДУ осн,рез.Снятие питания с преобразователя...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158764,
@@ -946,7 +1586,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Капитальный ремонт с перегрузкой топлива в соответ...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158872,
@@ -973,7 +1633,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Система возбуждения",
           "state": "Открытая",
           "notes": "Замена секции управления и регулирования на модерн...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158873,
@@ -1000,7 +1680,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Релейная защита и автоматика",
           "state": "Открытая",
           "notes": "Техническое обслуживание 1-го комплекта защит ТГ-2...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158881,
@@ -1027,7 +1727,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Противоаварийная автоматика",
           "state": "Открытая",
           "notes": "Техническое обслуживание АЛАР блока №2  2-й компле...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 158882,
@@ -1054,7 +1774,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Релейная защита и автоматика",
           "state": "Открытая",
           "notes": "Техническое обслуживание 2-го комплекта защит ТГ-2...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 159187,
@@ -1081,7 +1821,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение НСИ на  внутренних и внешних серверах СK...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 159188,
@@ -1108,7 +1868,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение НСИ на ЦППС Smart-FEP согласно \"Плану-гр...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 159293,
@@ -1135,7 +1915,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Программно-аппаратные комплексы",
           "state": "Открытая",
           "notes": "Изменение ролей серверов Внутреннего и Внешнего CK...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160127,
@@ -1162,7 +1962,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Замена фундаментов оборудования, ремонт контура за...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160160,
@@ -1189,7 +2009,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "500 кВ",
           "state": "Открытая",
           "notes": "Отсоединение ошиновки от ЛР-1 ВЛ 500 кВ Азот-Бугул...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160317,
@@ -1216,7 +2056,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Реконструкция. Замена: В1-5ТГ, РЛ1-5ТГ, РШ1-5ТГ, Т...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160447,
@@ -1243,7 +2103,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СДТУ направления ",
           "state": "Открытая",
           "notes": "ССПИ АСДУ осн,рез. Вывод из работы ТС выключателей...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160455,
@@ -1270,7 +2150,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Реконструкция. Реконструкция. Замена: В1-6ТГ, РЛ1-...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160701,
@@ -1297,7 +2197,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Перевести из текущего ремонта в холодный резерв ТГ...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160836,
@@ -1324,7 +2244,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Реконструкция рабочего колеса и замена статора",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160938,
@@ -1351,7 +2291,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "ТН 10 кВ",
           "state": "Открытая",
           "notes": "Замена ТН 10 АТ-1 по титулу «ПС 500 кВ Помары (ОРУ...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160941,
@@ -1378,7 +2338,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "РЗ автотрансформаторов, трансформаторов",
           "state": "Разрешена",
           "notes": "Профконтроль",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 160953,
@@ -1405,7 +2385,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СДТУ направления ",
           "state": "Открытая",
           "notes": "ЕТ-82 №4. Восстановительные работы, ремонт блока п...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161085,
@@ -1432,7 +2432,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "капитальный ремонт",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161086,
@@ -1459,7 +2479,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление текущего ремонта ТГ-11. Причина продлени...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161088,
@@ -1486,7 +2526,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Вывести в текущий ремонт энергоблок №1 с К-1А и К-...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161097,
@@ -1513,7 +2573,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Продлить состояние холодного резерва по режиму раб...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161098,
@@ -1540,7 +2620,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Продлить состояние холодного резерва по режиму раб...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161169,
@@ -1567,7 +2667,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Текущий ремонт",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161185,
@@ -1594,7 +2714,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ-2",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161196,
@@ -1621,7 +2761,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного  резерва",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161197,
@@ -1648,7 +2808,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Вывести в капитальный ремонт энергоблок-2",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161198,
@@ -1675,7 +2855,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ - 4   С 09.04.2017 ...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161203,
@@ -1702,7 +2902,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СШ 220 кВ",
           "state": "Открытая",
           "notes": "Текущий ремонт ШР-2-220 Т-4, 2 ШР-220 Курдюм-Сарат...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161204,
@@ -1729,7 +2949,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 220 кВ",
           "state": "Открытая",
           "notes": "Средний ремонт 2 ШР-220 ШСВ-220.\n Проф.восстановле...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161215,
@@ -1756,7 +2996,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Вынужденный простой в связи с ремонтом паропроводо...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161233,
@@ -1783,7 +3043,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить   текущий ремонт ТГ-3 из-за увеличения ср...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161235,
@@ -1810,7 +3090,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Вывести ТГ-2 текущий ремонт согласно утверджденном...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161236,
@@ -1837,7 +3137,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Вывести ТГ-1 в текущий ремонт согласно утвержденно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161247,
@@ -1864,7 +3184,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Вывести в текущий ремонт ТГ-8 согласно утвержденно...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161280,
@@ -1891,7 +3231,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Перевести в плановый текщий ремонт согласно график...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161281,
@@ -1918,7 +3278,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "СШ 500 кВ",
           "state": "Открытая",
           "notes": "Техническое обслуживание  2 СШ 500 кВ. Текущий рем...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161282,
@@ -1945,7 +3325,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Текущий ремонт ШР В-532",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161289,
@@ -1972,7 +3372,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "РШ 500 кВ",
           "state": "Открытая",
           "notes": "Текущий ремонт и профилактические испытания Р-2-50...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161303,
@@ -1999,7 +3419,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Гидрогенераторы",
           "state": "Открытая",
           "notes": "Реконструкция рабочего колеса и замена статора.\nПр...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161304,
@@ -2026,7 +3466,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "Замена ТР 10 АТ-1 и ТН 10 АТ-1 по титулу «ПС 500 к...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161373,
@@ -2053,7 +3513,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "500 кВ",
           "state": "Разрешена",
           "notes": "Установка разрядных рогов на грозотрос оп. №381,38...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161380,
@@ -2080,7 +3560,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "500 кВ",
           "state": "Разрешена",
           "notes": "Снятие птичьих гнёзд. Вырубка ДКР\nУстановка разряд...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161381,
@@ -2107,7 +3607,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "500 кВ",
           "state": "Разрешена",
           "notes": "Регулировка искровых промежутков на грозотросе.\nВы...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161452,
@@ -2134,7 +3654,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "Для СР ВВ, ТР ТТ\nПодача заявки вне плана и регламе...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161475,
@@ -2161,7 +3701,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "АТ,Т 500 кВ",
           "state": "Открытая",
           "notes": "1. Текущий ремонт: АТ-2, ОПН-500 АТ-2, ОПН-220 АТ-...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161476,
@@ -2188,7 +3748,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Разрешена",
           "notes": "1. Средний ремонт АТР-500 I сш АТ-2.\n2. Текущий ре...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161477,
@@ -2215,7 +3795,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "В 500 кВ",
           "state": "Открытая",
           "notes": "1. Текущий ремонт АТР-500 II сш АТ-2.\n2. Текущий р...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161482,
@@ -2242,7 +3842,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Продлить  холодный резерв энергоблока № 3\nВ состав...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161483,
@@ -2269,7 +3889,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить заявку на вывод в холодный резерв ТГ-6.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161484,
@@ -2296,7 +3936,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить заявку на вывод в  холодный резерв ТГ-9.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161486,
@@ -2323,7 +3983,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "ТГ-1 - холодный резерв",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161487,
@@ -2350,7 +4030,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "ТГ5 - холодный резерв",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161490,
@@ -2377,7 +4077,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ-2.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161491,
@@ -2404,7 +4124,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ-9.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161492,
@@ -2431,7 +4171,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ-6.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161493,
@@ -2458,7 +4218,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продление холодного резерва ТГ-5.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161498,
@@ -2485,7 +4265,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Холодный резерв ТГ-1.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161500,
@@ -2512,7 +4312,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Холодный резерв ТГ-6",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161501,
@@ -2539,7 +4359,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Холодный резерв ТГ-2",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161513,
@@ -2566,7 +4406,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Холодный резерв",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161519,
@@ -2593,7 +4453,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить срок ХР.\nПо режиму работы станции.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161520,
@@ -2620,7 +4500,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить срок ХР.\nПо режиму работы станции.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161521,
@@ -2647,7 +4547,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить срок ХР.\nПо режиму работы станции.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161524,
@@ -2674,7 +4594,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Энергоблоки",
           "state": "Открытая",
           "notes": "Продлить состояние холодного резерва по режиму раб...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161529,
@@ -2701,7 +4641,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить заявку на ХР ТГ-7 по режиму работы станци...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161537,
@@ -2728,7 +4688,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить холодный резерв ТГ-4 по режиму работы ста...",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         },
         {
           "id": 161538,
@@ -2755,7 +4735,27 @@ export class InMemoryDataServiceService implements InMemoryDbService{
           "devType": "Турбогенераторы",
           "state": "Открытая",
           "notes": "Продлить состояние ХР.",
-          "zvkDecisionType": 0
+          "zvkDecisionType": 0,
+          "detailInfoEnterprise": [{
+            "itemType": "Подающее предприятие",
+            "enterprise": "Саратовское РДУ",
+            "alienNumber": 5652,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "ЗГД-Кендин П.В. ЗГД-Софинский Д.А. СЭР-Синецкий СЭРиБ-Карцев А.В. РЗА-Ларин ",
+            "stateId": 0
+          }],
+          "detailInfoAgreement":[{
+            "itemType": "Предыдущее согласование",
+            "enterprise": "Саратовская ГЭС",
+            "alienNumber": 730,
+            "state": "Подана",
+            "dateBegin": "00:01 10.07.16",
+            "dateEnd": "00:00 11.09.17",
+            "names": "Клименко А.В. Артемов А.Н. Умершев А.Н. ",
+            "stateId": 0
+          }]
         }
       ]
 
